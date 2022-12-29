@@ -1,6 +1,5 @@
 /*
 Name: Muhammad Niazi
-ID: 23812328
 Project 2
 
 Compile: gcc Niazi_23812328.c -o Niazi_23812328.exe -lpthread -lm
