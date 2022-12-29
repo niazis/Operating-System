@@ -4,10 +4,10 @@ Name: Muhammad Niazi
 Project 1
 
 
-Compile command: gcc niazi_23812328.c -o niazi_23812328.exe
-Run command: ./niazi_23812328.exe [Buffer Size] [aurguments] [input file]
-Run command with no aurguments: ./niazi_23812328.exe [Buffer Size] [input file]
-Run command with no aurguments and no input file: ./niazi_23812328.exe [Buffer Size]
+Compile command: gcc message.c -o message.exe
+Run command: ./message.exe [Buffer Size] [aurguments] [input file]
+Run command with no aurguments: ./message.exe [Buffer Size] [input file]
+Run command with no aurguments and no input file: ./message.exe [Buffer Size]
 
 */
 
